@@ -30,6 +30,9 @@ Remove the brackets when you fill in the info but leave the quotation marks. Don
 *Project: GEMINI*
 ```<img src="https://github.com/ryncreates/Flash-Comp/blob/ba82d0464a423ebbc8802545215a13ed6bb5b4ba/Project%20GEMINI.png" alt="cover art" width="578" height="753" /> ```
 
+*Summer Flings*
+``` <img src="https://github.com/ryncreates/Flash-Comp/blob/fcc803cfd90c3c12224f9ef47a2d050ac703a1e0/Summer%20Flings.png" alt="cover art" width="578" height="753" /> ```
+
 *Warm In December*
 ```<img src="https://github.com/ryncreates/Flash-Comp/blob/ba82d0464a423ebbc8802545215a13ed6bb5b4ba/Warm%20In%20December.png" alt="cover art" width="578" height="753" /> ```
 
